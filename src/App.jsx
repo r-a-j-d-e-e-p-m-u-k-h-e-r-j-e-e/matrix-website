@@ -21,6 +21,7 @@ import BrandHighlights from "./components/sections/BrandHighlights";
 import BrandFooter from "./components/sections/BrandFooter";
 import GlobalActions from "./components/navigation/GlobalActions";
 import AnnouncementBar from "./components/navigation/AnnouncementBar";
+import AmericanClubScore from "./components/audio/AmericanClubScore";
 
 const DEFAULT_FILTERS = {
   category: "All",
@@ -248,6 +249,9 @@ export default function App() {
           openContact();
         }}
       />
+      {view !== "group" && config.id === "american_club" && (
+        <AmericanClubScore />
+      )}
 
       {view === "group" && (
         <>
