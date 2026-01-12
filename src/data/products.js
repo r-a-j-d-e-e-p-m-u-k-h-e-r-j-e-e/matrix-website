@@ -4,7 +4,7 @@ export const PRODUCTS = [
     id: 1,
     name: "CHECKS 23022C",
     brand: "matrix",
-    image: "/images/img1.jpeg",
+    image: "images/img1.jpeg",
     desc: "Checkered cotton shirts. Slim fit, full sleeves.",
     details: {
       spec: "Design no. 23022C / 25022C",
@@ -29,7 +29,7 @@ export const PRODUCTS = [
     id: 5,
     name: "DIGITAL PRINTS 23049C",
     brand: "matrix",
-    image: "/images/img2.jpeg",
+    image: "images/img2.jpeg",
     desc: "Digital print cotton. Regular fit, full sleeves.",
     details: {
       spec: "Design no. 23049C / 25049C",
@@ -54,7 +54,7 @@ export const PRODUCTS = [
     id: 8,
     name: "LILAN 23066C",
     brand: "matrix",
-    image: "/images/img3.jpeg",
+    image: "images/img3.jpeg",
     desc: "Lilan print cotton. Slim fit, full sleeves.",
     details: {
       spec: "Design no. 23066C / 25066C",
@@ -79,7 +79,7 @@ export const PRODUCTS = [
     id: 11,
     name: "CHECKS 23020C",
     brand: "matrix",
-    image: "/images/img4.jpeg",
+    image: "images/img4.jpeg",
     desc: "Checkered cotton. Slim fit, full sleeves.",
     details: {
       spec: "Design no. 23020C / 25020C",
@@ -104,7 +104,7 @@ export const PRODUCTS = [
     id: 12,
     name: "CHECKS 23026C",
     brand: "matrix",
-    image: "/images/img5.jpeg",
+    image: "images/img5.jpeg",
     desc: "Checkered cotton. Slim fit, full sleeves.",
     details: {
       spec: "Design no. 23026C / 25026C",
@@ -129,7 +129,7 @@ export const PRODUCTS = [
     id: 13,
     name: "CLASSIC SOLIDS 21009B",
     brand: "matrix",
-    image: "/images/img6.jpeg",
+    image: "images/img6.jpeg",
     desc: "Solid cotton shirts. Slim fit, full sleeves.",
     details: {
       spec: "Design no. 21009B / 23009B",
@@ -154,7 +154,7 @@ export const PRODUCTS = [
     id: 14,
     name: "PRINTED DIGITAL 23018D",
     brand: "matrix",
-    image: "/images/img7.jpeg",
+    image: "images/img7.jpeg",
     desc: "Digital print cotton. Slim fit, full sleeves.",
     details: {
       spec: "Design no. 23018D / 25018D",
@@ -179,7 +179,7 @@ export const PRODUCTS = [
     id: 15,
     name: "DIGITAL PRINTS 23030D",
     brand: "matrix",
-    image: "/images/img8.jpeg",
+    image: "images/img8.jpeg",
     desc: "Floral digital print cotton. Slim fit, full sleeves.",
     details: {
       spec: "Design no. 23030D / 25030D / 27030D",
@@ -204,7 +204,7 @@ export const PRODUCTS = [
     id: 16,
     name: "PRINTED DIGITAL 23033D",
     brand: "matrix",
-    image: "/images/img9.jpeg",
+    image: "images/img9.jpeg",
     desc: "Digital print cotton. Slim fit, full sleeves.",
     details: {
       spec: "Design no. 23033D / 25033D",
@@ -229,7 +229,7 @@ export const PRODUCTS = [
     id: 17,
     name: "LILAN 19004B",
     brand: "matrix",
-    image: "/images/img10.jpeg",
+    image: "images/img10.jpeg",
     desc: "Lilan print cotton. Slim fit, full sleeves.",
     details: {
       spec: "Design no. 19004B / 21004B",
